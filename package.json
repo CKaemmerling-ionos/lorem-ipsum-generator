@@ -1,0 +1,23 @@
+{
+  "name": "lorem-ipsum-generator",
+  "version": "1.0.0",
+  "description": "Lorem ipsum placeholder text generator agent - MEDIUM tier",
+  "type": "module",
+  "main": "src/agent.md",
+  "scripts": {
+    "health-check": "node -e \"console.log('Health check passed')\""
+  },
+  "keywords": [
+    "lorem-ipsum",
+    "placeholder",
+    "testing",
+    "agent",
+    "medium-tier"
+  ],
+  "author": "Governance System",
+  "license": "MIT",
+  "tier": "MEDIUM",
+  "tierScore": 2.2,
+  "componentType": "AGENT",
+  "reviewDate": "2026-02-16"
+}
